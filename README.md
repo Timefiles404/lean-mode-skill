@@ -113,3 +113,7 @@ cp -r lean-mode-skill/skills/lean-mode <你的工作区>/.claude/skills/
 ## 许可
 
 [MIT](LICENSE)
+
+## 鸣谢
+
+Linux.do
